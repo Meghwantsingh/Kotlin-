@@ -1,7 +1,6 @@
 CODE OUTPUT :
 
-Happy Birthday, Rover!
-
+Happy Birthday, Meghwant!
 <pre>
    ,,,,,   
    |||||   
@@ -10,6 +9,5 @@ Happy Birthday, Rover!
 {~@~@~@~@~}
 @@@@@@@@@@@
 </pre>
-
-You are already 5!
-5 is the very best age to celebrate!
+You are already 20 year old, Meghwant!
+20 year old is the very best age to celebrate!
