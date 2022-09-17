@@ -1,6 +1,6 @@
 # Kotlin
 # Android basics in Kotlin
-> Disclaimer: Some of the contents of this file are referenced from the course: [Android Basics in Kotlin](https://developer.android.com/courses/android-basics-kotlin/course)
+> Contents of this file are referenced from the course: [Android Basics in Kotlin](https://developer.android.com/courses/android-basics-kotlin/course)
 ## 0. Birthday Card App
 This app shows a birthday card created with ConstraitLayout.
 
