@@ -1,10 +1,9 @@
-# Kotlin
-# Android project work  <h1>2022</h1>
+# Name: Meghwant Singh
+#Google profile link : https://developers.google.com/profile/u/104096253742773573210
+# Android Kotlin project work  <h1>2022</h1>
 > Contents of this file are referenced from the course: [Android Basics in Kotlin](https://developer.android.com/courses/android-basics-kotlin/course)
 ## Start with  Birthday Card App
 This app shows a birthday card created with ConstraitLayout.
-
-**What I learned:**
 
 - The app helps me to build a basic layout with some elements (TextView, ImageView)
 
